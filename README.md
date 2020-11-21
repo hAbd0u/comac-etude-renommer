@@ -1,2 +1,1 @@
-# comac-etude-renommer
-renommer etude comac
+renommer un dossier d'étude de COMAC et leur fichiers.
